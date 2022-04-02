@@ -5,5 +5,7 @@ public class testcase2 {
         //test case 2
 
         //writing smoke tests...
+
+        //screenshot failure
     }
 }
